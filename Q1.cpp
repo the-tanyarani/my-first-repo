@@ -1,3 +1,4 @@
+//Find average.
 #include<iostream>
 using namespace std;
 int main()
@@ -12,4 +13,5 @@ int main()
     avg=(a+b+c)/3;
     cout<<"The average of a, b and c is "<<avg;
     return 0;
+
 }
